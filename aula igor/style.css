@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&family=New+Amsterdam&display=swap');
+
+*{
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: bold;
+}
+
+.livro{
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.um{
+    font-weight: inherit;
+}
+.dois{
+    font-weight: lighter;
+}
+.tres{
+    font-weight: 400;
+}
