@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+
+body{
+    width: 100vw;
+    min-height: 100vh;
+    background-image: url(./image.jfif);
+    background-repeat:round
+}
+
+.h1{
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.txt1{
+    color:white;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 200;
+}
+
+.h2{
+    color:white;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.txt2{
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+}
